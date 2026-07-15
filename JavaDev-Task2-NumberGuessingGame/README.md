@@ -74,7 +74,3 @@ This is a Java console-based Number Guessing Game developed using Core Java. The
 ## 📄 License
 
 This project is created for educational purposes only as part of the Oasis Infobyte Internship.
-
----
-
-⭐ If you like this project, don't forget to give it a star on GitHub!
